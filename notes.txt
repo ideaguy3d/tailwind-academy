@@ -1,0 +1,25 @@
+
+
+tailwind core concepts
+
+- layout (19) 
+- flexbox & grid (24)
+- spacing (2)
+- sizing (6)
+- typography (30)
+- backgrounds (8)
+- borders (8)
+- effects (14)
+- filters (20)
+- tables (4)
+- transitions & animations (6)
+- transforms (10)
+- interativity (17) 
+- svg (3)
+- accessibility (1) 
+
+
+
+
+
+//

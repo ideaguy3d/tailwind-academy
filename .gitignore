@@ -1,0 +1,25 @@
+.DS_Store
+maindb.sqlite3
+over_10mb
+stats/dol_data_docs/LCA_Disclosure_Data_FY2024_All_Quarters.csv
+h1b_2024_data.db
+h1b_2024_data.db
+.git/objects/d8/1cc7ef05431104b3629256f80ffb18650bf1aa
+.git/objects/08/c30773720f0ad2ccf5cb35620c622c84c1dc84
+stats/h1b_2024_q1_to_q4.csv
+stats/data/over_10mb/all_h1b_2024_data.csv
+stats/data/over_10mb/h1b_2024_data_copy.db
+stats/data/over_10mb/all_h1b_2024_data_copy.csv
+stats/dol_data_docs/data_xlsx/LCA_Disclosure_Data_FY2024_Q4.xlsx
+stats/dol_data_docs/data_xlsx/LCA_Worksites_FY2024_Q4.xlsx
+stats/dol_data_docs/data_xlsx/LCA_Disclosure_Data_FY2024_Q2.xlsx
+stats/dol_data_docs/data_xlsx/PERM_Disclosure_Data_FY2024_Q4.xlsx
+stats/dol_data_docs/data_xlsx/LCA_Disclosure_Data_FY2024_Q3.xlsx
+stats/dol_data_docs/data_xlsx/LCA_Disclosure_Data_FY2025_Q1.xlsx
+stats/dol_data_docs/data_xlsx/LCA_Disclosure_Data_FY2024_Q1.xlsx
+stats/dol_data_docs/data_xlsx/LCA_Worksites_FY2025_Q1.xlsx
+stats/dol_data_docs/data_xlsx/PERM_Disclosure_Data_New_Form_FY2024_Q4.xlsx
+h1b_2024_data.db
+stats/mysql_conn.ipynb
+home/home --orig.php
+node_modules

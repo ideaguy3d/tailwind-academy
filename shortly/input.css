@@ -1,0 +1,48 @@
+@import 'tailwindcss';
+
+/*
+  The default border color has changed to `currentColor` in Tailwind CSS v4,
+  so we've added these compatibility styles to make sure everything still
+  looks the same as it did with Tailwind CSS v3.
+
+  If we ever want to remove these styles, we need to add an explicit border
+  color utility to any element that depends on these defaults.
+
+
+  npx @tailwindcss/cli -i /Users/juliushernandez/Documents/GitHub/ald/practice/shortly/input.css -o /Users/juliushernandez/Documents/GitHub/ald/practice/shortly/output.css --watch
+
+  npx @tailwindcss/cli -i ./input.css -o ./output.css --watch
+
+*/
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentColor);
+  }
+
+  h1 {
+    @apply text-4xl;
+  }
+
+  h2 {
+    @apply text-2xl; 
+  }
+
+}
+
+@layer components {
+  .ald-btn-blue {
+    @apply bg-blue-500 px-4 py-2 rounded-xl font-bold text-white cursor-pointer hover:bg-blue-700 
+  }
+
+  .ald-btn-red {
+    @apply bg-red-500 px-4 py-2 rounded-xl font-bold text-white cursor-pointer hover:bg-red-700 
+  }
+}
+
+
+
+
